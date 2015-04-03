@@ -1,0 +1,17 @@
+
+name = Unscripted
+description = This is the framework for Unscripted Templates.
+package = Core
+version = VERSION
+core = 7.x
+
+stylesheets[all][] = css/style.css
+
+regions[user_menu] = User Menu
+regions[main_menu] = Main Menu
+regions[content] = Content
+
+
+
+
+
